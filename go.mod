@@ -1,1 +1,3 @@
-module github.com/amyangfei/gor_middleware
+module github.com/fvahid/gor_middleware
+
+go 1.19
